@@ -1,0 +1,26 @@
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Environment variables
+.env
+.env.*
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Generated visualization results
+*.png
+*_results.json
+
+# OS files
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
+*.swp
